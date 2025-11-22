@@ -1,18 +1,4 @@
----
-title: Melon Notes - Integrated Training Timeline
----
-
-This is the integrated training plan for Melon.
----
-date: 2025-11-21
-title: Melon's Integrated Training Plan
-layout: post
----
-
-## 150 Days to Excellence: Foundation + 3 Cycles
-
----
-
+# Project - 90 days + 90 days to the best Melon EVER!
 ## OVERVIEW: THE FULL JOURNEY
 
 **Timeline:** November 20, 2025 - April 20, 2026 (5 months)
