@@ -80,6 +80,7 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.NotFoundPage(),
       Plugin.Static(),
+      Plugin.ContentIndex(),
     ],
   },
 }
