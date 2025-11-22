@@ -1,0 +1,71 @@
+/* Obsidian-inspired heading colors and styling */
+
+/* Heading colors from blank-river-headers snippet */
+h1 {
+  color: var(--h1-color, #a9b665) !important;
+  font-weight: 700;
+}
+
+h2 {
+  color: var(--h2-color, #e78a4e) !important;
+  font-weight: 700;
+}
+
+h3 {
+  color: var(--h3-color, #89b482) !important;
+  font-weight: 700;
+}
+
+h4 {
+  color: var(--h4-color, #d3869b) !important;
+  font-weight: 700;
+}
+
+h5 {
+  color: var(--h5-color, #d8a657) !important;
+  font-weight: 700;
+}
+
+h6 {
+  color: var(--h6-color, #7c6f64) !important;
+  font-weight: 700;
+}
+
+/* Gruvbox-specific text styling */
+strong {
+  color: var(--bold-color, #e78a4e);
+  font-weight: 700;
+}
+
+em {
+  color: var(--italic-color, #7daea3);
+  font-style: italic;
+}
+
+/* Code styling from Material Gruvbox */
+code {
+  color: var(--code-color, #7daea3);
+  background-color: var(--code-bg, rgba(60, 56, 54, 0.5));
+  padding: 0.1em 0.25em;
+  border-radius: 3px;
+}
+
+/* Obsidian-like tag styling */
+a[data-tag] {
+  color: var(--tag-color, #89b482);
+  text-decoration: none;
+  background-color: rgba(137, 180, 130, 0.1);
+  padding: 0.1em 0.4em;
+  border-radius: 0.3em;
+}
+
+a[data-tag]:hover {
+  background-color: rgba(137, 180, 130, 0.2);
+}
+
+/* Highlight styling */
+mark {
+  background-color: rgba(231, 138, 78, 0.3) !important;
+  padding: 0.1em 0.2em;
+  border-radius: 2px;
+}

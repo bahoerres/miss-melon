@@ -2,7 +2,8 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4 Configuration - Customized with Gruvbox theme
+ * Quartz 4 Configuration - Obsidian Material Gruvbox Theme
+ * Based on Material Gruvbox theme + blank-river-headers snippet
  */
 const config: QuartzConfig = {
   configuration: {
@@ -27,26 +28,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#fbf1c7",
-          lightgray: "#e8dcc1",
-          gray: "#d5c4a1",
-          darkgray: "#654321",
+          light: "#f9f5d7",
+          lightgray: "#d5c4a1",
+          gray: "#928374",
+          darkgray: "#654735",
           dark: "#3c3836",
-          secondary: "#b8860b",
-          tertiary: "#8b4513",
-          highlight: "rgba(184, 134, 11, 0.15)",
-          textHighlight: "#ffd70088",
+          secondary: "#a9b665",
+          tertiary: "#e78a4e",
+          highlight: "rgba(169, 182, 101, 0.15)",
+          textHighlight: "rgba(231, 138, 78, 0.3)",
         },
         darkMode: {
           light: "#282828",
-          lightgray: "#3c3836",
-          gray: "#504945",
-          darkgray: "#ebdbb2",
+          lightgray: "#504945",
+          gray: "#928374",
+          darkgray: "#d4be98",
           dark: "#fbf1c7",
-          secondary: "#8ec07c",
-          tertiary: "#fe8019",
-          highlight: "rgba(142, 192, 124, 0.15)",
-          textHighlight: "#b8bb2688",
+          secondary: "#a9b665",
+          tertiary: "#e78a4e",
+          highlight: "rgba(169, 182, 101, 0.15)",
+          textHighlight: "rgba(231, 138, 78, 0.3)",
         },
       },
     },
