@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "JetBrains Mono",
-        body: "Fira Code",
-        code: "Fira Code",
+        header: "Inknut Antiqua",
+        body: "Roboto",
+        code: "Roboto Mono",
       },
       colors: {
         lightMode: {
