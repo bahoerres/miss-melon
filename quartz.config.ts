@@ -7,7 +7,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Melon Notes",
+    pageTitle: "The Best Melon Project",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,14 +17,14 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "melon.blakehoerres.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Inknut Antiqua",
-        body: "Roboto",
-        code: "Roboto Mono",
+        header: "Merriweather",
+        body: "Ubuntu Sans Mono",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
