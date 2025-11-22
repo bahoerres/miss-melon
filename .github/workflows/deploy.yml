@@ -24,11 +24,14 @@ jobs:
         run: npx quartz build
 
       - name: Deploy to Droplet
-        uses: appleboy/ssh-action@v1.0.3
+        uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.DROPLET_HOST }}
           username: ${{ secrets.DROPLET_USER }}
           key: ${{ secrets.DROPLET_SSH_KEY }}
+          passphrase: ""
+          timeout: 60s
+          command_timeout: 10m
           script: |
             cd /home/sysadmin/code/miss-melon
             git fetch origin main
