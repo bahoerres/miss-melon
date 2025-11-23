@@ -4,3 +4,4 @@ public/
 .env
 .env.local
 *.log
+.quartz-cache/
