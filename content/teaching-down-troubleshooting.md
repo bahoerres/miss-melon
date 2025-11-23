@@ -411,14 +411,14 @@ Consider working with a professional trainer if:
 
 ## Related Pages
 
-- [Phase 1-2: Introduce Lure & Build Speed]({% link _pages/watermelon/teaching-down-phase-1-2.md %})
-- [Phase 3-4: Fade Lure & Add Verbal]({% link _pages/watermelon/teaching-down-phase-3-4.md %})
-- [Phase 5: Verbal Cue Only]({% link _pages/watermelon/teaching-down-phase-5.md %})
-- [Phase 6: Add Duration]({% link _pages/watermelon/teaching-down-duration.md %})
-- [Phase 7: Distance & Distractions]({% link _pages/watermelon/teaching-down-distance-distractions.md %})
+- [[teaching-down-phase-1-2|Phase 1-2: Introduce Lure & Build Speed]]
+- [[teaching-down-phase-3-4|Phase 3-4: Fade Lure & Add Verbal]]
+- [[teaching-down-phase-5|Phase 5: Verbal Cue Only]]
+- [[teaching-down-duration|Phase 6: Add Duration]]
+- [[teaching-down-distance-distractions|Phase 7: Distance & Distractions]]
 
 ---
 
 ## Back to the Hub
 
-← [Teaching Down - Complete Guide]({% link _pages/watermelon/teaching-down-hub.md %})
+← [[teaching-down-hub|Teaching Down - Complete Guide]]

@@ -32,9 +32,9 @@ By February 20th, Melon can confidently perform all 15 games from the three cycl
 
 | Cycle | Dates | Focus | Outcome |
 |-------|-------|-------|---------|
-| **[Cycle 1: Confidence & Engagement]({% link _pages/watermelon/90-day-foundations-cycle-1.md %})** | Nov 20 - Dec 20 | Building confidence, problem-solving, handler focus | 5 games mastered, handler focus as default |
-| **[Cycle 2: Emotional Regulation]({% link _pages/watermelon/90-day-foundations-cycle-2.md %})** | Dec 21 - Jan 20 | Arousal control, drive channeling, start/stop switches | 5 games mastered, go from 100 to 0 in 30 seconds |
-| **[Cycle 3: Impulse Control & Precision]({% link _pages/watermelon/90-day-foundations-cycle-3.md %})** | Jan 21 - Feb 20 | Patience under pressure, frustration tolerance, reliability | 5 games mastered, rock-solid impulse control |
+| **[[90-day-foundations-cycle-1|Cycle 1: Confidence & Engagement]]** | Nov 20 - Dec 20 | Building confidence, problem-solving, handler focus | 5 games mastered, handler focus as default |
+| **[[90-day-foundations-cycle-2|Cycle 2: Emotional Regulation]]** | Dec 21 - Jan 20 | Arousal control, drive channeling, start/stop switches | 5 games mastered, go from 100 to 0 in 30 seconds |
+| **[[90-day-foundations-cycle-3|Cycle 3: Impulse Control & Precision]]** | Jan 21 - Feb 20 | Patience under pressure, frustration tolerance, reliability | 5 games mastered, rock-solid impulse control |
 
 ---
 
@@ -53,7 +53,7 @@ This session happens **every single day, no matter what.** This is your foundati
 - Establishes daily training habit
 - Takes 10 minutes but compounds over 90 days
 
-Learn more: [Daily Structure & Routines]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})
+Learn more: [[90-day-foundations-daily-structure|Daily Structure & Routines]]
 
 ---
 
@@ -80,13 +80,13 @@ All three cycles use the same daily schedule. This consistency is what builds th
 | ~6:45 PM | Final Potty | Before bed |
 | 7:00 PM | Lights Out | Crate/bed for night |
 
-Full breakdown: [Daily Structure & Routines]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})
+Full breakdown: [[90-day-foundations-daily-structure|Daily Structure & Routines]]
 
 ---
 
 ## Cycle-by-Cycle Breakdown
 
-### [Cycle 1: Building A Dog's Confidence (Nov 20 - Dec 20)]({% link _pages/watermelon/90-day-foundations-cycle-1.md %})
+### [[90-day-foundations-cycle-1|Cycle 1: Building A Dog's Confidence (Nov 20 - Dec 20)]]
 
 **Goal:** By December 20th, Melon can confidently perform all 5 games from the Confidence cheatsheet in sequence.
 
@@ -106,7 +106,7 @@ Full breakdown: [Daily Structure & Routines]({% link _pages/watermelon/90-day-fo
 
 ---
 
-### [Cycle 2: Emotional Regulation (Dec 21 - Jan 20)]({% link _pages/watermelon/90-day-foundations-cycle-2.md %})
+### [[90-day-foundations-cycle-2|Cycle 2: Emotional Regulation (Dec 21 - Jan 20)]]
 
 **Goal:** By January 20th, Melon can regulate her arousal - go from high-energy play to calm settle within 30 seconds.
 
@@ -126,7 +126,7 @@ Full breakdown: [Daily Structure & Routines]({% link _pages/watermelon/90-day-fo
 
 ---
 
-### [Cycle 3: Impulse Control & Precision (Jan 21 - Feb 20)]({% link _pages/watermelon/90-day-foundations-cycle-3.md %})
+### [[90-day-foundations-cycle-3|Cycle 3: Impulse Control & Precision (Jan 21 - Feb 20)]]
 
 **Goal:** By February 20th, Melon has rock-solid impulse control. She can wait patiently, hold behaviors with distractions, and work through frustrating challenges.
 
@@ -219,25 +219,25 @@ Make sure you have:
 
 ### Start with These Pages
 
-1. **[Daily Structure & Routines]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})** - Understand the daily rhythm
-2. **[Cycle 1: Building Confidence]({% link _pages/watermelon/90-day-foundations-cycle-1.md %})** - Your first 30 days
+1. **[[90-day-foundations-daily-structure|Daily Structure & Routines]]** - Understand the daily rhythm
+2. **[[90-day-foundations-cycle-1|Cycle 1: Building Confidence]]** - Your first 30 days
 
 ---
 
 ## All Resources
 
-- **[Daily Structure & Routines]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})** - The non-negotiable daily schedule
-- **[Cycle 1: Building Confidence]({% link _pages/watermelon/90-day-foundations-cycle-1.md %})** - Weeks 1-5 (Nov 20 - Dec 20)
-- **[Cycle 2: Emotional Regulation]({% link _pages/watermelon/90-day-foundations-cycle-2.md %})** - Weeks 1-5 (Dec 21 - Jan 20)
-- **[Cycle 3: Impulse Control]({% link _pages/watermelon/90-day-foundations-cycle-3.md %})** - Weeks 1-5 (Jan 21 - Feb 20)
+- **[[90-day-foundations-daily-structure|Daily Structure & Routines]]** - The non-negotiable daily schedule
+- **[[90-day-foundations-cycle-1|Cycle 1: Building Confidence]]** - Weeks 1-5 (Nov 20 - Dec 20)
+- **[[90-day-foundations-cycle-2|Cycle 2: Emotional Regulation]]** - Weeks 1-5 (Dec 21 - Jan 20)
+- **[[90-day-foundations-cycle-3|Cycle 3: Impulse Control]]** - Weeks 1-5 (Jan 21 - Feb 20)
 
 ---
 
 ## Related Programs
 
-- **[Teaching 'Down' - Complete Training Guide]({% link _pages/watermelon/teaching-down-hub.md %})** - Foundation skill woven throughout
-- **[Full Integrated Training Timeline]({% link _pages/watermelon/training-timeline-hub.md %})** - 150-day program that extends beyond this
-- **[Adding Duration to Any Behavior]({% link _pages/watermelon/Adding Duration to Any Behavior - Universal Protocol.md %})** - Protocol used in Cycles 2-3
+- **[[teaching-down-hub|Teaching 'Down' - Complete Training Guide]]** - Foundation skill woven throughout
+- **[[training-timeline-hub|Full Integrated Training Timeline]]** - 150-day program that extends beyond this
+- **[[Adding Duration to Any Behavior - Universal Protocol]]** - Protocol used in Cycles 2-3
 
 ---
 
@@ -268,6 +268,6 @@ Make sure you have:
 
 ## Let's Go
 
-You've got this. Start with [Cycle 1: Building Confidence]({% link _pages/watermelon/90-day-foundations-cycle-1.md %}) and take it one week at a time.
+You've got this. Start with [[90-day-foundations-cycle-1|Cycle 1: Building Confidence]] and take it one week at a time.
 
 🐾

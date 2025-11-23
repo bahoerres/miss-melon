@@ -236,7 +236,7 @@ You now have:
 
 ## Next: Cycle 3
 
-Ready for **[Cycle 3: Impulse Control & Precision]({% link _pages/watermelon/90-day-foundations-cycle-3.md %})**.
+Ready for **[[90-day-foundations-cycle-3|Cycle 3: Impulse Control & Precision]]**.
 
 In Cycle 3, you'll teach rock-solid impulse control, patience under pressure, and frustration tolerance. She'll be ready for advanced obedience and sport work.
 
@@ -244,4 +244,4 @@ In Cycle 3, you'll teach rock-solid impulse control, patience under pressure, an
 
 ## Back to the Hub
 
-← [90-Day Foundations - Complete Hub]({% link _pages/watermelon/90-day-foundations-hub.md %})
+← [[90-day-foundations-hub|90-Day Foundations - Complete Hub]]

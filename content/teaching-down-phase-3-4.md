@@ -165,7 +165,7 @@ By end of Phase 4, she **starts moving into a down when she hears "down,"** befo
 - [ ] Phase 3B complete: Downs with empty hand motion 8/10 times
 - [ ] Phase 3C complete: Downs with subtle hand signal 9/10 times
 - [ ] Phase 4 complete: Anticipates verbal cue 5+/10 times before you give hand signal
-- [ ] Ready to move to [Phase 5: Verbal Cue Only]({% link _pages/watermelon/teaching-down-phase-5.md %})
+- [ ] Ready to move to [[teaching-down-phase-5|Phase 5: Verbal Cue Only]]
 
 ---
 
@@ -180,10 +180,10 @@ By end of Phase 4, she **starts moving into a down when she hears "down,"** befo
 
 ## Next Steps
 
-Once she's responding to "down" before you give the hand signal (Phase 4 complete), move on to **[Phase 5: Verbal Cue Only]({% link _pages/watermelon/teaching-down-phase-5.md %})**. She's almost there!
+Once she's responding to "down" before you give the hand signal (Phase 4 complete), move on to **[[teaching-down-phase-5|Phase 5: Verbal Cue Only]]**. She's almost there!
 
 ---
 
 ## Back to the Hub
 
-← [Teaching Down - Complete Guide]({% link _pages/watermelon/teaching-down-hub.md %})
+← [[teaching-down-hub|Teaching Down - Complete Guide]]

@@ -259,7 +259,7 @@ You're now 90 days in. The next phase includes:
 - **Real-world generalization** (parks, cafes, busy environments)
 - **Prep for sport/advanced work** (if desired)
 
-See **[Full Integrated Training Timeline]({% link _pages/watermelon/training-timeline-hub.md %})** for the complete 150-day arc.
+See **[[training-timeline-hub|Full Integrated Training Timeline]]** for the complete 150-day arc.
 
 ---
 
@@ -281,4 +281,4 @@ Celebrate this. You earned it.
 
 ## Back to the Hub
 
-← [90-Day Foundations - Complete Hub]({% link _pages/watermelon/90-day-foundations-hub.md %})
+← [[90-day-foundations-hub|90-Day Foundations - Complete Hub]]

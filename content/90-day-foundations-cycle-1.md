@@ -77,7 +77,7 @@ _"Run the entire confidence routine at the dog park with other dogs around and M
 - **Meals** - Break practice at breakfast & dinner
 - **Morning Session** (5 min) - Quick marker/sit reps
 
-See full details: [Daily Structure & Routines]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})
+See full details: [[90-day-foundations-daily-structure|Daily Structure & Routines]]
 
 ---
 
@@ -284,7 +284,7 @@ Decide if you're ready for Cycle 2 or need to extend/repeat any games.
 
 ## Weekly Reflection
 
-At the end of each week (template from [Daily Structure]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})):
+At the end of each week (template from [[90-day-foundations-daily-structure|Daily Structure]]):
 
 **What worked?**
 **What was hard?**
@@ -310,7 +310,7 @@ This is a MAJOR milestone. You have:
 
 ## Next: Cycle 2
 
-Once Cycle 1 is complete, you're ready for **[Cycle 2: Emotional Regulation]({% link _pages/watermelon/90-day-foundations-cycle-2.md %})**.
+Once Cycle 1 is complete, you're ready for **[[90-day-foundations-cycle-2|Cycle 2: Emotional Regulation]]**.
 
 In Cycle 2, you'll teach arousal control, drive channeling, and start/stop switches. She'll learn to go from 100 to 0 in 30 seconds.
 
@@ -318,4 +318,4 @@ In Cycle 2, you'll teach arousal control, drive channeling, and start/stop switc
 
 ## Back to the Hub
 
-← [90-Day Foundations - Complete Hub]({% link _pages/watermelon/90-day-foundations-hub.md %})
+← [[90-day-foundations-hub|90-Day Foundations - Complete Hub]]

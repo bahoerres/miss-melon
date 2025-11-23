@@ -125,16 +125,16 @@ By end of Phase 2, she drops into a down **within 3 seconds of seeing the lure, 
 
 - [ ] Phase 1 complete: Follows lure into down 8/10 times, within 10 seconds
 - [ ] Phase 2 complete: Downs quickly within 3 seconds on lure 9/10 times
-- [ ] Ready to move to [Phase 3-4: Fade Lure & Add Verbal]({% link _pages/watermelon/teaching-down-phase-3-4.md %})
+- [ ] Ready to move to [[teaching-down-phase-3-4|Phase 3-4: Fade Lure & Add Verbal]]
 
 ---
 
 ## Next Steps
 
-Once she's succeeding 8-9/10 times in Phase 2, move on to **[Phase 3-4: Fade Lure & Add Verbal Cue]({% link _pages/watermelon/teaching-down-phase-3-4.md %})**.This is where she starts responding to your hand signal instead of the visible treat.
+Once she's succeeding 8-9/10 times in Phase 2, move on to **[[teaching-down-phase-3-4|Phase 3-4: Fade Lure & Add Verbal Cue]]**.This is where she starts responding to your hand signal instead of the visible treat.
 
 ---
 
 ## Back to the Hub
 
-← [Teaching Down - Complete Guide]({% link _pages/watermelon/teaching-down-hub.md %})
+← [[teaching-down-hub|Teaching Down - Complete Guide]]

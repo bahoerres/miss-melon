@@ -283,16 +283,16 @@ She holds down for 60+ seconds with mild distractions, **8/10 times**.
 - [ ] Week 6: Holds 10-30 seconds, 8/10 times
 - [ ] Week 7: Holds 30-60 seconds with mild distractions, 8/10 times
 - [ ] Week 8: Holds 60+ seconds with distractions solid and reliable
-- [ ] Ready to move to [Phase 7: Distance & Distractions]({% link _pages/watermelon/teaching-down-distance-distractions.md %})
+- [ ] Ready to move to [[teaching-down-distance-distractions|Phase 7: Distance & Distractions]]
 
 ---
 
 ## Next Steps
 
-Once duration is solid at 60+ seconds (Week 8 complete), you're ready for **[Phase 7: Distance & Distractions]({% link _pages/watermelon/teaching-down-distance-distractions.md %})**.  She'll learn to hold while you step away or while bigger distractions happen.
+Once duration is solid at 60+ seconds (Week 8 complete), you're ready for **[[teaching-down-distance-distractions|Phase 7: Distance & Distractions]]**.  She'll learn to hold while you step away or while bigger distractions happen.
 
 ---
 
 ## Back to the Hub
 
-← [Teaching Down - Complete Guide]({% link _pages/watermelon/teaching-down-hub.md %})
+← [[teaching-down-hub|Teaching Down - Complete Guide]]

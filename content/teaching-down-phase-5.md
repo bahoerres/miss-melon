@@ -104,7 +104,7 @@ By end of Phase 5, she responds to "down" (verbal only) **8-9 out of 10 times**,
 
 ### Don't Skip to the Next Phase Too Early
 
-Only move to [Phase 6: Add Duration]({% link _pages/watermelon/teaching-down-duration.md %}) once she's reliably responding to verbal "down" 8-9/10 times.
+Only move to [[teaching-down-duration|Phase 6: Add Duration]] once she's reliably responding to verbal "down" 8-9/10 times.
 
 Duration work requires a solid foundation. If the verbal cue isn't solid, duration training will be much harder.
 
@@ -126,16 +126,16 @@ Some dogs get this in 7 days. Some need 10-14 days. That's totally normal.
 - [ ] Day 26: 80% verbal-only trials succeeding
 - [ ] Day 27: 90% verbal-only trials succeeding
 - [ ] Phase 5 complete: Responds to "down" (verbal only) 8-9/10 times
-- [ ] Ready to move to [Phase 6: Add Duration]({% link _pages/watermelon/teaching-down-duration.md %})
+- [ ] Ready to move to [[teaching-down-duration|Phase 6: Add Duration]]
 
 ---
 
 ## Next Steps
 
-Once she's responding reliably to the verbal "down" cue (8-9/10 times), you're ready for **[Phase 6: Add Duration]({% link _pages/watermelon/teaching-down-duration.md %})**.  This is where the behavior becomes truly useful in real-world situations.
+Once she's responding reliably to the verbal "down" cue (8-9/10 times), you're ready for **[[teaching-down-duration|Phase 6: Add Duration]]**.  This is where the behavior becomes truly useful in real-world situations.
 
 ---
 
 ## Back to the Hub
 
-← [Teaching Down - Complete Guide]({% link _pages/watermelon/teaching-down-hub.md %})
+← [[teaching-down-hub|Teaching Down - Complete Guide]]

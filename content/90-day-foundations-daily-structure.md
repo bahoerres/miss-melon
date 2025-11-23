@@ -108,9 +108,9 @@ All three cycles use the same daily structure. This consistency is what builds t
 
 The bonus training session always focuses on that week's specific game. You'll find the detailed progression for each game in the cycle pages:
 
-- **[Cycle 1: Building Confidence]({% link _pages/watermelon/90-day-foundations-cycle-1.md %})** - Details on each game
-- **[Cycle 2: Emotional Regulation]({% link _pages/watermelon/90-day-foundations-cycle-2.md %})** - Details on each game
-- **[Cycle 3: Impulse Control]({% link _pages/watermelon/90-day-foundations-cycle-3.md %})** - Details on each game
+- **[[90-day-foundations-cycle-1|Cycle 1: Building Confidence]]** - Details on each game
+- **[[90-day-foundations-cycle-2|Cycle 2: Emotional Regulation]]** - Details on each game
+- **[[90-day-foundations-cycle-3|Cycle 3: Impulse Control]]** - Details on each game
 
 ---
 
@@ -315,4 +315,4 @@ Yes! In fact, we encourage it. Scatter feeding, meal-based training, all great w
 
 ## Back to the Hub
 
-← [90-Day Foundations - Complete Hub]({% link _pages/watermelon/90-day-foundations-hub.md %})
+← [[90-day-foundations-hub|90-Day Foundations - Complete Hub]]

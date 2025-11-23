@@ -51,11 +51,11 @@ This is your complete roadmap for 150 days of systematic training that builds a 
 - This NEVER changes
 - It's the anchor that holds everything together
 
-Learn more: [Daily Structure & Routines]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})
+Learn more: [[90-day-foundations-daily-structure|Daily Structure & Routines]]
 
 ### 2. The Three Complete Cycles (90 Days)
 
-**[90-Day Foundations Program]({% link _pages/watermelon/90-day-foundations-hub.md %})**
+**[[90-day-foundations-hub|90-Day Foundations Program]]**
 
 - **Cycle 1:** Confidence & Engagement (Nov 20 - Dec 20)
 - **Cycle 2:** Emotional Regulation (Dec 21 - Jan 20)
@@ -146,27 +146,27 @@ Down is woven throughout the entire 150-day arc:
 
 ## Detailed Breakdown by Phase
 
-### [90-Day Foundations Program]({% link _pages/watermelon/90-day-foundations-hub.md %})
+### [[90-day-foundations-hub|90-Day Foundations Program]]
 
 This is your core program, weeks 1-15:
 
-- **[Cycle 1: Building Confidence]({% link _pages/watermelon/90-day-foundations-cycle-1.md %})** (Nov 20 - Dec 20)
-- **[Cycle 2: Emotional Regulation]({% link _pages/watermelon/90-day-foundations-cycle-2.md %})** (Dec 21 - Jan 20)
-- **[Cycle 3: Impulse Control]({% link _pages/watermelon/90-day-foundations-cycle-3.md %})** (Jan 21 - Feb 20)
-- **[Daily Structure & Routines]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})** (Reference throughout)
+- **[[90-day-foundations-cycle-1|Cycle 1: Building Confidence]]** (Nov 20 - Dec 20)
+- **[[90-day-foundations-cycle-2|Cycle 2: Emotional Regulation]]** (Dec 21 - Jan 20)
+- **[[90-day-foundations-cycle-3|Cycle 3: Impulse Control]]** (Jan 21 - Feb 20)
+- **[[90-day-foundations-daily-structure|Daily Structure & Routines]]** (Reference throughout)
 
-### [Teaching Down Progression]({% link _pages/watermelon/teaching-down-hub.md %})
+### [[teaching-down-hub|Teaching Down Progression]]
 
 Down is taught in phases alongside the cycles:
 
-- **[Phases 1-2: Intro & Speed]({% link _pages/watermelon/teaching-down-phase-1-2.md %})** (Weeks 1-2)
-- **[Phases 3-4: Fade Lure & Verbal]({% link _pages/watermelon/teaching-down-phase-3-4.md %})** (Weeks 3-4)
-- **[Phase 5: Verbal Only]({% link _pages/watermelon/teaching-down-phase-5.md %})** (Week 5)
-- **[Phase 6: Duration]({% link _pages/watermelon/teaching-down-duration.md %})** (Weeks 6-9)
-- **[Phase 7: Distance & Distractions]({% link _pages/watermelon/teaching-down-distance-distractions.md %})** (Weeks 10-15)
-- **[Troubleshooting]({% link _pages/watermelon/teaching-down-troubleshooting.md %})** (Anytime)
+- **[[teaching-down-phase-1-2|Phases 1-2: Intro & Speed]]** (Weeks 1-2)
+- **[[teaching-down-phase-3-4|Phases 3-4: Fade Lure & Verbal]]** (Weeks 3-4)
+- **[[teaching-down-phase-5|Phase 5: Verbal Only]]** (Week 5)
+- **[[teaching-down-duration|Phase 6: Duration]]** (Weeks 6-9)
+- **[[teaching-down-distance-distractions|Phase 7: Distance & Distractions]]** (Weeks 10-15)
+- **[[teaching-down-troubleshooting|Troubleshooting]]** (Anytime)
 
-### [Adding Duration to Any Behavior]({% link _pages/watermelon/Adding Duration to Any Behavior - Universal Protocol.md %})
+### [[Adding Duration to Any Behavior - Universal Protocol|Adding Duration to Any Behavior]]
 
 Universal protocol used throughout, especially:
 - Down duration work (Weeks 6-9)
@@ -275,11 +275,11 @@ Training shouldn't be separate from life. It IS life:
 
 ### 90-Day Foundations (Core Program, Weeks 1-15)
 
-- **[90-Day Hub]({% link _pages/watermelon/90-day-foundations-hub.md %})** - Overview & navigation
-- **[Daily Structure]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})** - The daily schedule
-- **[Cycle 1: Confidence]({% link _pages/watermelon/90-day-foundations-cycle-1.md %})** - Weeks 1-5 (Nov 20 - Dec 20)
-- **[Cycle 2: Regulation]({% link _pages/watermelon/90-day-foundations-cycle-2.md %})** - Weeks 6-10 (Dec 21 - Jan 20)
-- **[Cycle 3: Impulse Control]({% link _pages/watermelon/90-day-foundations-cycle-3.md %})** - Weeks 11-15 (Jan 21 - Feb 20)
+- **[[90-day-foundations-hub|90-Day Hub]]** - Overview & navigation
+- **[[90-day-foundations-daily-structure|Daily Structure]]** - The daily schedule
+- **[[90-day-foundations-cycle-1|Cycle 1: Confidence]]** - Weeks 1-5 (Nov 20 - Dec 20)
+- **[[90-day-foundations-cycle-2|Cycle 2: Regulation]]** - Weeks 6-10 (Dec 21 - Jan 20)
+- **[[90-day-foundations-cycle-3|Cycle 3: Impulse Control]]** - Weeks 11-15 (Jan 21 - Feb 20)
 
 ### Teaching Down (Weeks 1-15)
 
@@ -301,15 +301,15 @@ Training shouldn't be separate from life. It IS life:
 
 ### Before You Begin
 
-- [ ] Read [Daily Structure & Routines]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})
-- [ ] Read [Cycle 1: Building Confidence]({% link _pages/watermelon/90-day-foundations-cycle-1.md %})
+- [ ] Read [[90-day-foundations-daily-structure|Daily Structure & Routines]]
+- [ ] Read [[90-day-foundations-cycle-1|Cycle 1: Building Confidence]]
 - [ ] Review [Teaching Down - Phases 1-2](/watermelon/teaching-down-phase-1-2/)
 - [ ] Gather high-value treats
 - [ ] Pick your 3pm time slot (try to keep consistent)
 
 ### Week 1 Starts
 
-1. Begin [Cycle 1, Week 1]({% link _pages/watermelon/90-day-foundations-cycle-1.md %}) - Middle game
+1. Begin [[90-day-foundations-cycle-1|Cycle 1, Week 1]] - Middle game
 2. Begin [Teaching Down, Phases 1-2](/watermelon/teaching-down-phase-1-2/) - Introduce lure
 3. Do the 3pm courtyard session EVERY DAY
 4. Track how it feels
@@ -371,8 +371,8 @@ Let's go build something amazing.
 
 ## Navigation
 
-**Start here:** [90-Day Foundations Hub]({% link _pages/watermelon/90-day-foundations-hub.md %})
+**Start here:** [[90-day-foundations-hub|90-Day Foundations Hub]]
 
-**Questions about Down?** [Teaching Down Hub]({% link _pages/watermelon/teaching-down-hub.md %})
+**Questions about Down?** [[teaching-down-hub|Teaching Down Hub]]
 
-**Need details on structure?** [Daily Routines]({% link _pages/watermelon/90-day-foundations-daily-structure.md %})
+**Need details on structure?** [[90-day-foundations-daily-structure|Daily Routines]]

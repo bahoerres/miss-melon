@@ -28,11 +28,11 @@ The down command is one of the most important foundation skills you'll teach. It
 
 | Phase | Goal | Timeline |
 |-------|------|----------|
-| **[Phase 1-2: Introduce & Build Speed]({% link _pages/watermelon/teaching-down-phase-1-2.md %})** | Get the behavior with a lure, build reliability | 1-8 days |
-| **[Phase 3-4: Fade Lure & Add Verbal]({% link _pages/watermelon/teaching-down-phase-3-4.md %})** | Transition to hand signal and verbal cue | 9-20 days |
-| **[Phase 5: Verbal Cue Only]({% link _pages/watermelon/teaching-down-phase-5.md %})** | She responds to "down" with no hand signal | 21-27 days |
-| **[Phase 6: Add Duration]({% link _pages/watermelon/teaching-down-duration.md %})** | She holds the down for 2-60+ seconds | 4 weeks |
-| **[Phase 7: Distance & Distractions]({% link _pages/watermelon/teaching-down-distance-distractions.md %})** | She holds while you move away or distractions occur | 2-4+ weeks |
+| **[[teaching-down-phase-1-2\|Phase 1-2: Introduce & Build Speed]]** | Get the behavior with a lure, build reliability | 1-8 days |
+| **[[teaching-down-phase-3-4\|Phase 3-4: Fade Lure & Add Verbal]]** | Transition to hand signal and verbal cue | 9-20 days |
+| **[[teaching-down-phase-5\|Phase 5: Verbal Cue Only]]** | She responds to "down" with no hand signal | 21-27 days |
+| **[[teaching-down-duration\|Phase 6: Add Duration]]** | She holds the down for 2-60+ seconds | 4 weeks |
+| **[[teaching-down-distance-distractions\|Phase 7: Distance & Distractions]]** | She holds while you move away or distractions occur | 2-4+ weeks |
 
 ---
 
@@ -56,22 +56,22 @@ The down command is one of the most important foundation skills you'll teach. It
 
 ## Phase-by-Phase Breakdown
 
-### [Phase 1-2: Introduce Lure & Build Speed (Days 1-8)]({% link _pages/watermelon/teaching-down-phase-1-2.md %})
+### [[teaching-down-phase-1-2|Phase 1-2: Introduce Lure & Build Speed (Days 1-8)]]
 Get the behavior using a lure, then build speed and reliability. By the end, she's dropping into a down within 3 seconds.
 
-### [Phase 3-4: Fade Lure & Add Verbal Cue (Days 9-20)]({% link _pages/watermelon/teaching-down-phase-3-4.md %})
+### [[teaching-down-phase-3-4|Phase 3-4: Fade Lure & Add Verbal Cue (Days 9-20)]]
 The hardest part - transition from lure-dependent to responding to your hand signal and verbal cue. She starts anticipating the down before you complete the motion.
 
-### [Phase 5: Verbal Cue Only (Days 21-27)]({% link _pages/watermelon/teaching-down-phase-5.md %})
+### [[teaching-down-phase-5|Phase 5: Verbal Cue Only (Days 21-27)]]
 She responds to "down" with no hand signal needed. Hand signal becomes backup/optional. She's starting to reliably respond to the verbal cue alone.
 
-### [Phase 6: Add Duration (Weeks 5-8)]({% link _pages/watermelon/teaching-down-duration.md %})
+### [[teaching-down-duration|Phase 6: Add Duration (Weeks 5-8)]]
 She holds the down position for extended periods (2 seconds → 10 seconds → 30 seconds → 60+ seconds). This is where real-world utility starts.
 
-### [Phase 7: Distance & Distractions (Weeks 9+)]({% link _pages/watermelon/teaching-down-distance-distractions.md %})
+### [[teaching-down-distance-distractions|Phase 7: Distance & Distractions (Weeks 9+)]]
 She holds the down while you move away OR while bigger distractions occur. Eventually combines both: down while you're out of sight with other dogs nearby.
 
-### [Troubleshooting Common Issues]({% link _pages/watermelon/teaching-down-troubleshooting.md %})
+### [[teaching-down-troubleshooting|Troubleshooting Common Issues]]
 Getting stuck somewhere? Find solutions for the most common training problems here.
 
 ---
@@ -117,14 +117,14 @@ Practice down in these contexts throughout your day:
 
 ## Ready to Start?
 
-Head to **[Phase 1-2: Introduce Lure & Build Speed]({% link _pages/watermelon/teaching-down-phase-1-2.md %})** to begin teaching your dog the down command.
+Head to **[[teaching-down-phase-1-2|Phase 1-2: Introduce Lure & Build Speed]]** to begin teaching your dog the down command.
 
-Have questions or running into issues? Check out **[Troubleshooting]({% link _pages/watermelon/teaching-down-troubleshooting.md %})** for solutions.
+Have questions or running into issues? Check out **[[teaching-down-troubleshooting|Troubleshooting]]** for solutions.
 
 ---
 
 ## Related Resources
 
-- [Adding Duration to Any Behavior - Universal Protocol]({% link _pages/watermelon/Adding Duration to Any Behavior - Universal Protocol.md %})
-- [90-Day Foundations Program]({% link _pages/watermelon/90-day-foundations-hub.md %})
-- [Full Integrated Training Timeline]({% link _pages/watermelon/training-timeline-hub.md %})
+- [[Adding Duration to Any Behavior - Universal Protocol]]
+- [[90-day-foundations-hub|90-Day Foundations Program]]
+- [[training-timeline-hub|Full Integrated Training Timeline]]
