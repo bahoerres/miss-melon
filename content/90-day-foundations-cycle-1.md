@@ -1,7 +1,7 @@
 ---
 title: 90-Day Foundations - Cycle 1 (Building Confidence)
 permalink: /watermelon/90-day-foundations-cycle-1/
-updated: 2025-11-22T19:59
+updated: 2025-11-23T04:41
 ---
 
 ## Cycle 1: Building A Dog's Confidence & Engagement

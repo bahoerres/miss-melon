@@ -1,7 +1,7 @@
 ---
 title: Teaching Down - Phase 3-4 (Fade Lure & Add Verbal Cue)
 permalink: /watermelon/teaching-down-phase-3-4/
-updated: 2025-11-22T19:59
+updated: 2025-11-23T04:41
 ---
 
 ## Phase 3-4: Fade Lure & Add Verbal Cue

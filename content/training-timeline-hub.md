@@ -1,7 +1,7 @@
 ---
 title: Full Integrated Training Timeline (150 Days)
 permalink: /watermelon/training-timeline/
-updated: 2025-11-22T20:11
+updated: 2025-11-23T04:41
 ---
 
 ## Full Integrated Training Timeline
@@ -237,37 +237,37 @@ Training shouldn't be separate from life. It IS life:
 
 ### Skills
 
-✅ Rock-solid down (verbal cue, 60+ seconds, distance, distractions)
-✅ Release cue (Break) solid across all behaviors
-✅ Bulletproof marker system (YES and GOOD)
-✅ Default handler focus
-✅ Arousal control and regulation
-✅ Impulse control and patience
-✅ Problem-solving ability
+- ✅ Rock-solid down (verbal cue, 60+ seconds, distance, distractions)
+- ✅ Release cue (Break) solid across all behaviors
+- ✅ Bulletproof marker system (YES and GOOD)
+- ✅ Default handler focus
+- ✅ Arousal control and regulation
+- ✅ Impulse control and patience
+- ✅ Problem-solving ability
 
 ### Games
 
-✅ 5 Confidence games (Cycle 1)
-✅ 5 Regulation games (Cycle 2)
-✅ 5 Precision games (Cycle 3)
+- ✅ 5 Confidence games (Cycle 1)
+- ✅ 5 Regulation games (Cycle 2)
+- ✅ 5 Precision games (Cycle 3)
 
 ### Real-World Ability
 
-✅ Settles reliably in public
-✅ Holds positions with distractions
-✅ Channels arousal toward handler
-✅ Works through frustration
-✅ Checks in automatically before reacting
-✅ Ready for advanced obedience
-✅ Ready for sport foundations (if you want)
+- ✅ Settles reliably in public
+- ✅ Holds positions with distractions
+- ✅ Channels arousal toward handler
+- ✅ Works through frustration
+- ✅ Checks in automatically before reacting
+- ✅ Ready for advanced obedience
+- ✅ Ready for sport foundations (if you want)
 
 ### System & Habit
 
-✅ You have a systematic training habit
-✅ You know how to progress skills phase by phase
-✅ You have protocols for teaching anything new
-✅ You understand your dog and how she learns
-✅ You built a genuine working partnership
+- ✅ You have a systematic training habit
+- ✅ You know how to progress skills phase by phase
+- ✅ You have protocols for teaching anything new
+- ✅ You understand your dog and how she learns
+- ✅ You built a genuine working partnership
 
 ---
 
@@ -300,19 +300,20 @@ Training shouldn't be separate from life. It IS life:
 ## Getting Started
 
 ### Before You Begin
-
-- [ ] Read [[90-day-foundations-daily-structure|Daily Structure & Routines]]
-- [ ] Read [[90-day-foundations-cycle-1|Cycle 1: Building Confidence]]
-- [ ] Review [Teaching Down - Phases 1-2](/watermelon/teaching-down-phase-1-2/)
-- [ ] Gather high-value treats
-- [ ] Pick your 3pm time slot (try to keep consistent)
+> [!NOTE]
+> - [ ] Read [[90-day-foundations-daily-structure|Daily Structure & Routines]]
+> - [ ] Read [[90-day-foundations-cycle-1|Cycle 1: Building Confidence]]
+> - [ ] Review [Teaching Down - Phases 1-2](/watermelon/teaching-down-phase-1-2/)
+> - [ ] Gather high-value treats
+> - [ ] Pick your 3pm time slot (try to keep consistent)
 
 ### Week 1 Starts
 
-1. Begin [[90-day-foundations-cycle-1|Cycle 1, Week 1]] - Middle game
-2. Begin [Teaching Down, Phases 1-2](/watermelon/teaching-down-phase-1-2/) - Introduce lure
-3. Do the 3pm courtyard session EVERY DAY
-4. Track how it feels
+> [!NOTE]
+> 1. Begin [[90-day-foundations-cycle-1|Cycle 1, Week 1]] - Middle game
+> 2. Begin [Teaching Down, Phases 1-2](/watermelon/teaching-down-phase-1-2/) - Introduce lure
+> 3. Do the 3pm courtyard session EVERY DAY
+> 4. Track how it feels
 
 ### Rest of Timeline
 
