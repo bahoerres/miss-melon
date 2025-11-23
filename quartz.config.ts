@@ -7,7 +7,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "The Best Melon Project",
+    pageTitle: "BallerMelon",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

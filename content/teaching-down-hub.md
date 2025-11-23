@@ -1,7 +1,7 @@
 ---
 title: Teaching 'Down' - Complete Training Guide
 permalink: /watermelon/teaching-down/
-updated: 2025-11-23T04:41
+updated: 2025-11-23T05:25
 ---
 
 ## Teaching Down - Your Complete Training Hub
@@ -125,6 +125,6 @@ Have questions or running into issues? Check out **[[teaching-down-troubleshooti
 
 ## Related Resources
 
-- [[Adding Duration to Any Behavior - Universal Protocol]]
+- [[adding-duration-to-any-behavior-universal-protocol]]
 - [[90-day-foundations-hub|90-Day Foundations Program]]
 - [[training-timeline-hub|Full Integrated Training Timeline]]

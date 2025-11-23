@@ -1,7 +1,7 @@
 ---
 title: Full Integrated Training Timeline (150 Days)
 permalink: /watermelon/training-timeline/
-updated: 2025-11-23T04:41
+updated: 2025-11-23T05:25
 ---
 
 ## Full Integrated Training Timeline
@@ -166,7 +166,7 @@ Down is taught in phases alongside the cycles:
 - **[[teaching-down-distance-distractions|Phase 7: Distance & Distractions]]** (Weeks 10-15)
 - **[[teaching-down-troubleshooting|Troubleshooting]]** (Anytime)
 
-### [[Adding Duration to Any Behavior - Universal Protocol|Adding Duration to Any Behavior]]
+### [[adding-duration-to-any-behavior-universal-protocol|Adding Duration to Any Behavior]]
 
 Universal protocol used throughout, especially:
 - Down duration work (Weeks 6-9)

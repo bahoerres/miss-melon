@@ -1,7 +1,7 @@
 ---
 title: 90-Day Foundations Program
 permalink: /watermelon/90-day-foundations/
-updated: 2025-11-23T04:41
+updated: 2025-11-23T05:25
 ---
 
 ## 90-Day Foundations Program - Complete Hub
@@ -237,7 +237,7 @@ Make sure you have:
 
 - **[[teaching-down-hub|Teaching 'Down' - Complete Training Guide]]** - Foundation skill woven throughout
 - **[[training-timeline-hub|Full Integrated Training Timeline]]** - 150-day program that extends beyond this
-- **[[Adding Duration to Any Behavior - Universal Protocol]]** - Protocol used in Cycles 2-3
+- **[[adding-duration-to-any-behavior-universal-protocol]]** - Protocol used in Cycles 2-3
 
 ---
 
