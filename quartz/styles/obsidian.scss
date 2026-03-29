@@ -1,71 +1,194 @@
-/* Obsidian-inspired heading colors and styling */
+/* Obsidian-inspired heading colors and modern styling */
+/* Gruvbox Material palette with script headers */
 
-/* Heading colors from blank-river-headers snippet */
+/* Heading colors — Caveat script font needs larger sizes to feel right */
 h1 {
   color: var(--h1-color, #a9b665) !important;
   font-weight: 700;
+  font-size: 2.4rem !important;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
 }
 
 h2 {
   color: var(--h2-color, #e78a4e) !important;
   font-weight: 700;
+  font-size: 1.9rem !important;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
 }
 
 h3 {
   color: var(--h3-color, #89b482) !important;
   font-weight: 700;
+  font-size: 1.5rem !important;
+  line-height: 1.3;
 }
 
 h4 {
   color: var(--h4-color, #d3869b) !important;
   font-weight: 700;
+  font-size: 1.25rem !important;
 }
 
 h5 {
   color: var(--h5-color, #d8a657) !important;
   font-weight: 700;
+  font-size: 1.1rem !important;
 }
 
 h6 {
   color: var(--h6-color, #7c6f64) !important;
   font-weight: 700;
+  font-size: 1rem !important;
 }
 
-/* Gruvbox-specific text styling */
+/* Bold text with Gruvbox orange accent */
 strong {
   color: var(--bold-color, #e78a4e);
   font-weight: 700;
 }
 
+/* Italic text with Gruvbox aqua */
 em {
   color: var(--italic-color, #7daea3);
   font-style: italic;
 }
 
-/* Code styling from Material Gruvbox */
+/* Modern code styling */
 code {
   color: var(--code-color, #7daea3);
-  background-color: var(--code-bg, rgba(60, 56, 54, 0.5));
-  padding: 0.1em 0.25em;
-  border-radius: 3px;
+  background-color: var(--code-bg, rgba(60, 56, 54, 0.4));
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+  font-size: 0.85em;
 }
 
-/* Obsidian-like tag styling */
+/* Code blocks */
+pre {
+  border-radius: 8px !important;
+  border: 1px solid var(--lightgray) !important;
+  background-color: var(--code-bg, rgba(40, 40, 40, 0.6)) !important;
+}
+
+/* Tag styling */
 a[data-tag] {
   color: var(--tag-color, #89b482);
   text-decoration: none;
   background-color: rgba(137, 180, 130, 0.1);
-  padding: 0.1em 0.4em;
-  border-radius: 0.3em;
+  padding: 0.15em 0.5em;
+  border-radius: 1em;
+  font-size: 0.85em;
+  transition: background-color 0.2s ease;
 }
 
 a[data-tag]:hover {
-  background-color: rgba(137, 180, 130, 0.2);
+  background-color: rgba(137, 180, 130, 0.25);
 }
 
 /* Highlight styling */
 mark {
-  background-color: rgba(231, 138, 78, 0.3) !important;
-  padding: 0.1em 0.2em;
-  border-radius: 2px;
+  background-color: rgba(231, 138, 78, 0.25) !important;
+  padding: 0.1em 0.25em;
+  border-radius: 3px;
+}
+
+/* Modern blockquote */
+blockquote {
+  border-left: 3px solid var(--secondary) !important;
+  background-color: rgba(169, 182, 101, 0.04);
+  padding: 0.75rem 1.25rem !important;
+  border-radius: 0 6px 6px 0;
+  margin: 1.25rem 0 !important;
+}
+
+/* Table modernization */
+.table-container > table {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--lightgray);
+
+  th {
+    background-color: rgba(80, 73, 69, 0.3);
+    font-weight: 600;
+  }
+
+  tr:hover {
+    background-color: rgba(169, 182, 101, 0.05);
+  }
+}
+
+/* Horizontal rule */
+hr {
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--lightgray) 20%,
+    var(--lightgray) 80%,
+    transparent 100%
+  ) !important;
+  margin: 2.5rem auto !important;
+}
+
+/* Smooth transitions everywhere */
+* {
+  transition-property: color, background-color, border-color, opacity;
+  transition-duration: 0.15s;
+  transition-timing-function: ease;
+}
+
+/* Checkbox styling (for advancement criteria) */
+input[type="checkbox"] {
+  accent-color: var(--secondary);
+  border-color: var(--secondary) !important;
+
+  &:checked {
+    background-color: var(--secondary) !important;
+    border-color: var(--secondary) !important;
+  }
+}
+
+/* Internal link styling — cleaner pill look */
+a.internal {
+  background-color: rgba(169, 182, 101, 0.08) !important;
+  padding: 0.05rem 0.3rem !important;
+  border-radius: 4px !important;
+  transition: background-color 0.2s ease, color 0.2s ease !important;
+
+  &:hover {
+    background-color: rgba(169, 182, 101, 0.18) !important;
+  }
+}
+
+/* Explorer and sidebar refinements */
+.sidebar {
+  &.left {
+    .page-title {
+      font-size: 1.6rem;
+    }
+  }
+}
+
+/* Article content spacing */
+article {
+  line-height: 1.7;
+
+  > p {
+    margin-bottom: 1.1rem;
+  }
+
+  > ul, > ol {
+    margin-bottom: 1.1rem;
+
+    li {
+      margin-bottom: 0.3rem;
+    }
+  }
+}
+
+/* Search and explorer hover states */
+.explorer-ul li > a:hover,
+.search-result:hover {
+  background-color: rgba(169, 182, 101, 0.1);
+  border-radius: 4px;
 }

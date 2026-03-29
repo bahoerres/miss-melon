@@ -1,85 +1,63 @@
 ---
-updated: 2025-11-23T04:41
+title: Melon's Training Program
+updated: 2026-02-15
 ---
 
-# Melon's 150-Day Training Program
-
-This is a complete, step-by-step training plan built for success. Not theory. Not inspiration. A practical, day-by-day roadmap that takes your dog from good to great over 150 days.
-
----
-
-## The Promise
-
-By the time you finish this program:
-- Your dog has rock-solid impulse control and can regulate her own arousal
-- She checks in with you as her default behavior
-- She understands **down** as a foundation skill and holds it through distractions
-- She's confident, problem-solving, and genuinely enjoys training
-- You have a repeatable system that works
-
-**This isn't luck. It's a plan that works when you work it.**
+Three skills. One progression. A dog who's engaged, driven, and a genuine partner.
 
 ---
 
-## Where to Start
+## The Three Pillars
 
-### First 90 Days: The Foundation (Cycles 1-3)
-Start here if you're beginning the journey or want to understand the full structure.
+This program builds three functional skills that matter in real life — not tricks, not games for their own sake. Each one builds on the last.
 
-→ **[[90-day-foundations-hub|90-Day Foundations Program]]**
-- Three intensive 30-day cycles building confidence, emotional regulation, and impulse control
-- 15 games you'll master, one cycle at a time
-- The 3PM Courtyard Session—the anchor that makes everything work
+### Phase 1: [[tug-hub|Structured Tug]]
+The foundation for everything. Tug is where you build drive, focus, handler engagement, and the out command. Every skill that follows depends on what you build here.
 
-Then immediately move to:
+### Phase 2: [[fetch-hub|Outdoor Fetch]]
+Drive meets purpose. Take the engagement and rules from tug and channel them into a real exercise outlet — reliable retrieve, return, and out in the real world.
 
-→ **[[90-day-foundations-daily-structure|Daily Structure & Routines]]**
-- What happens when (the non-negotiable schedule)
-- Why consistency matters more than intensity
-- How to integrate training into your actual life
-
-### Teaching "Down"
-The foundation skill that unlocks everything else. Use this alongside the 90-day program.
-
-→ **[[teaching-down-hub|Teaching Down - Complete Guide]]**
-- 7 phases from introducing the lure to proofing through distractions
-- How down becomes the basis for impulse control and settle work
-- When you're ready for each phase (and when to repeat)
-
-### The Full Picture (150 Days)
-See how everything fits together over the complete training arc.
-
-→ **[[training-timeline-hub|Full Training Timeline]]**
-- Weeks 1-15: 90-Day Foundations (confidence, regulation, impulse control)
-- Weeks 16+: Advanced work (distance, duration, proofing)
-- How down training threads through all 150 days
+### Phase 3: [[walking-hub|Loose Lead Walking]]
+Communication on the move. All that engagement and handler focus transfers to the leash. Walks become a conversation, not a battle.
 
 ---
 
-## How to Use This Site
+## How This Works
 
-**You're not reading documentation.** You're following a training plan. Each page tells you:
-- What to do this week
-- How to know if it's working
-- When to move forward (and when to repeat)
+**One phase at a time.** You advance when Melon's ready, not when the calendar says so. Each stage has clear criteria — observable behaviors that tell you it's time to move on.
 
-The plan is already built. Your job is to show up and do it.
+**Sessions are short.** 5-10 minutes of focused work beats 30 minutes of aimless repetition. You're building habits, not endurance.
+
+**Obedience is woven in.** Sit to start the game. Down to earn the next rep. Out to end the round. She learns structure through play, not separate drill sessions.
+
+**Every session has an escape route.** When things fall apart — and they will — you have a [[session-rescue|rescue protocol]] that gets you back on track and ends on a win.
+
+---
+
+## Before You Start
+
+- **[[program-overview|Program Overview]]** — The full philosophy, progression map, what you need, and how sessions work
+- **[[session-blueprint|Session Blueprint]]** — How every session is structured, warm-up to cool-down
+- **[[marker-system|Marker System]]** — YES, GOOD, and Break — the language you and Melon share
+- **[[session-rescue|Session Rescue]]** — What to do when it all goes sideways
 
 ---
 
 ## Quick Reference
 
-- **Need to know what to train today?** Check [[90-day-foundations-daily-structure|Daily Structure]]
-- **Stuck on a phase?** Jump to [[teaching-down-troubleshooting|Troubleshooting]]
-- **Ready for the next cycle?** Each page tells you exactly when to advance
-- **Want to see the big picture?** Read [[training-timeline-hub|Full Training Timeline]]
+- **What should I train today?** Whatever phase you're in. Check the hub page for your current stage.
+- **How do I know when to advance?** Each stage lists specific "ready to move on" criteria. Hit them consistently, then advance.
+- **It fell apart mid-session.** Go to [[session-rescue|Session Rescue]]. Find your scenario. Follow the protocol.
+- **I missed a few days.** Drop back one stage from where you were. Rebuild for 2-3 sessions. Then resume.
 
 ---
 
-## One More Thing
+---
 
-Progress isn't linear. Some weeks are amazing. Some weeks are harder. Both are part of the journey. The magic isn't in being perfect—it's in showing up consistently.
+## Resources
 
-**Start with [[90-day-foundations-hub|90-Day Foundations]] and take it one week at a time.**
+- **[[resources|Training Resources]]** — Videos, PDFs, and trainer references that inform this program
 
-🐾
+---
+
+The plan is built. Your job is to show up, keep it short, and end on a win.
