@@ -23,7 +23,7 @@ jobs:
           username: blake
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd ~/code/miss-melon
+            cd ~/sites/quartz/miss-melon
             git pull origin main
             npm ci
             npx quartz build
